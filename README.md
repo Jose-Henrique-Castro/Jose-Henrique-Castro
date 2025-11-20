@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with a love for proble
 
 ## 🔗 Connect with Me
 
-- [Instagram]((https://www.instagram.com/josehgcl_/))
+- [Instagram](https://www.instagram.com/josehgcl_/)
 - [Gmail](josephenrycastro@gmail.com)
 
 ## 🌱 Current Projects
