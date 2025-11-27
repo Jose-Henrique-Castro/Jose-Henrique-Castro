@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate programmer with a love for proble
 ## 🌱 Current Projects
 
 - **Competitive Programming Solutions**: I'm actively solving problems on platforms like [Vjudge](https://vjudge.net/), [Codeforces](https://codeforces.com/), [AtCoder](https://atcoder.jp/), and[BeeCrowd](https://www.beecrowd.com.br/).
-- **LeetCode**: Contructing Algorithms for LeetCode problems.
+- **LeetCode**: Constructing Algorithms for LeetCode problems.
 
 ---
 
